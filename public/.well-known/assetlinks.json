@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mealsFourLess.dev",
+      "sha256_cert_fingerprints": [
+        "47:50:D7:A7:D7:C9:C8:95:DE:37:1E:5D:A2:D8:D6:23:1D:D5:0E:F6:6F:C1:8E:E5:E1:09:8D:D8:F8:92:5D:97",
+        "50:65:25:03:76:91:AB:A0:03:6F:40:1D:53:A5:54:7B:C3:1E:CE:9B:78:4C:15:E2:0C:35:4E:86:EC:26:C0:1A"
+      ]
+    }
+  }
+]
