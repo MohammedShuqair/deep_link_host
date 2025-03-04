@@ -4,6 +4,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   base: '/deep_link_host/',  // Change this to match your repo name
+  publicDir: 'public',
   build: {
     outDir: 'dist',
   },
